@@ -1,0 +1,10 @@
+.vscode
+.github
+.env
+.gitignore
+coverage
+node_modules
+src
+package-lock.json
+tsconfig.json
+nodemon.json
