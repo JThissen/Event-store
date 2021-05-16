@@ -1,6 +1,15 @@
 ## Description
 An open-source event store based on Node.js and PostgreSQL. The event store ensures that all changes to an application are stored as a sequence of events. This ultimately allows for the reconstruction of the state at any point throughout its history.
 
+## Download
+Git clone or npm install:
+```bash
+git clone git@github.com:jthissen/event-store.git
+```
+```bash
+npm i @j_thissen/event-store
+```
+
 ## How to use
 ### Create
 
