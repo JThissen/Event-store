@@ -1,5 +1,5 @@
 {
-  "name": "event-store",
+  "name": "@j_thissen/event-store",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -28,5 +28,17 @@
     "dotenv": "^9.0.2",
     "pg": "^8.6.0",
     "uuid": "^8.3.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:jthissen/event-store.git"
+  },
+  "keywords": [
+    "evenstore",
+    "eventsourcing",
+    "events"
+  ],
+  "licenses": [{
+    "type": "MIT"
+  }]
 }
