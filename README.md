@@ -7,7 +7,7 @@ Git clone or npm install:
 git clone git@github.com:jthissen/event-store.git
 ```
 ```bash
-npm i @j_thissen/event-store
+npm i @jthissen/event-store
 ```
 
 ## How to use
